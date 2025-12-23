@@ -40,12 +40,12 @@ Perform store segmentation (High / Medium / Low categories)
 
 Key Features of the Dashboard:
 
-✔ Time Series Analysis 
-✔ Forecasting using trend & seasonality
-✔ Store Ranking and category segmentation
-✔ Sales vs CPI, Unemployment, Fuel Price
-✔ Holiday Impact Analysis
-✔ Interactive filters (Store, Year, Category, Holiday)
+* Time Series Analysis 
+* Forecasting using trend & seasonality
+* Store Ranking and category segmentation
+* Sales vs CPI, Unemployment, Fuel Price
+* Holiday Impact Analysis
+* Interactive filters (Store, Year, Category, Holiday)
 
 Tools & Technologies
 
